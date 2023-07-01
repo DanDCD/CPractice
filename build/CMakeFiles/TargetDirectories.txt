@@ -1,0 +1,3 @@
+/home/dandcd/Projects/CPP/checkingGCC/build/CMakeFiles/main.dir
+/home/dandcd/Projects/CPP/checkingGCC/build/CMakeFiles/edit_cache.dir
+/home/dandcd/Projects/CPP/checkingGCC/build/CMakeFiles/rebuild_cache.dir
